@@ -204,7 +204,6 @@ public static void main(String[] agrs) {
 			case 3:
 				System.out.println("\nExit Code, Good Bye !!");
 				System.exit(0);
-				break;
 			}
 		}
 	}
